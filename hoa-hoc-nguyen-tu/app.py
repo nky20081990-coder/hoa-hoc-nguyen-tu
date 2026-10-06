@@ -774,7 +774,4 @@ def periodic_table():
 # TRA CỨU
 # =========================================================
 
-def lookup_page():
-
-    st.title(
-     
+def lookup_page()
